@@ -1,0 +1,34 @@
+
+---Downloaded files---
+The import files for: Vodi Tube were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/ContentHub
+Data file = C:\wamp64\www\ContentHub/wp-content/themes/vodi/vodi/assets/dummy-data/tube/dummy-data.xml
+Widget file = C:\wamp64\www\ContentHub/wp-content/themes/vodi/vodi/assets/dummy-data/tube/widgets.wie
+Customizer file = not defined!
+Redux files:
+vodi_options -> C:\wamp64\www\ContentHub/wp-content/themes/vodi/vodi/assets/dummy-data/tube/redux-options.json 
+
+
+---pt-ocdi/before_content_import---
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Video Sidebar : 
+
+Navigation Menu - Popular Categories - Imported
+MAS Videos Search - No Title - Imported
+MAS Videos Videos by Categories - No Title - Imported
+MAS Videos Filter Videos by Tags - Tags - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: vodi_options finished successfully!
+
+---pt-ocdi/after_import---
+
